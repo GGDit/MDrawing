@@ -19,7 +19,7 @@ namespace MagicDrawing
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("1234");
+            MessageBox.Show("12345");
         }
     }
 }
